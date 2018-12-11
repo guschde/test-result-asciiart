@@ -1,5 +1,5 @@
 # test-result-asciiart
-ascii art for passed or failed software tests 
+ascii-art for passed or failed software tests
 
 ## Passed
 
